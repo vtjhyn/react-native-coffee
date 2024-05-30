@@ -1,8 +1,9 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+## Download APK
+You can download the APK for the app [here](https://drive.google.com/file/d/1jxsLnY9zERfAse2ftW5uj-V9qmFZ_Gls/view?usp=sharing).
 
 ## Step 1: Start the Metro Server
 
